@@ -1,2 +1,3 @@
 # Bookbot
-taking a book and spitting out statistics.
+BookBot is my first git project.
+
